@@ -1,4 +1,6 @@
-This is my Homework Project,
+# Homework
 
-For this file represents the readme file in my project.
 
+- Project with a Java file
+- .gitignore created ignoring .idea
+- All done remotely
